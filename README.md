@@ -50,19 +50,6 @@ forward forecasts of passenger demand.
 
 ---
 
-## Repository Structure
-├── report/       # Final written analysis report (.pdf)
-
-├── code/         # Complete R script 
-
-├── data/         # AirPassengers.csv
-
-├── figures/      # All 22 project figures (Figs 1–22)
-
-└── tables/       # Formatted output tables (.docx)
-
----
-
 ## Tools and Packages
 
 **Language:** R
